@@ -5,6 +5,20 @@ color: white;
 .about:visited{
 color: white;
 }
+.resume{
+text-decoration: none;
+color: white;
+}
+.resume:visited{
+color: white;
+}
+.portfolio{
+text-decoration: none;
+color: white;
+}
+.portfolio:visited{
+color: white;
+}
 .navbar.navbar-fixed-bottom{
     width:20% !important;
     margin:0px auto;
