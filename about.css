@@ -19,10 +19,6 @@ color: white;
 .portfolio:visited{
 color: white;
 }
-.navbar.navbar-fixed-bottom{
-    width:20% !important;
-    margin:0px auto;
-    left:0;
-    right:0;
-    padding:0;
+.navbar-fixed-bottom{
+    width: 65% !important;
 }
