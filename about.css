@@ -23,8 +23,9 @@ color: white;
     width: 65% !important;
 }
 .card {
-box-shadow: 5px 10px 18px green !important;
+box-shadow: 5px 10px 18px #05f505 !important;
 }
-.btn-light-green {
-text-shadow: 2px 2px 5px red;
+.nav-link {
+color: green !important;
+text-shadow: 2px 2px 5px #05f505;
  }
